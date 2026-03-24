@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on AufurWizard
+⭐️ I'm best at Python
 
 
 ## 🌐 Socials:
