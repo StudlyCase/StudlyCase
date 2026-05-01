@@ -18,6 +18,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 # ✨ Projects
-<img width="720" height="228" alt="RapidForge icon" src="https://github.com/user-attachments/assets/32ed8902-acc3-40cf-bb23-387fd94d45aa" href="https://github.com/StudlyCase/RapidForge" />
+<img width="1500" height="500" alt="rflogn" src="https://github.com/user-attachments/assets/4df6e26e-96b8-42ab-9c90-435799a762a4" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
