@@ -18,7 +18,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=StudlyCase&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="400" />
+  <img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=StudlyCase&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400" />
   <br>
   <h3 style="float: right; width: 50%;">Hello, I'm StudlyCase</h3>
   <h5 style="float: right; width: 50%; margin-top: -10px;">
